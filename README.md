@@ -10,4 +10,4 @@ This project performs **automatic cell detection** in microscopy images using **
 ✅ **Thresholding** – Applies **Otsu’s Thresholding** to segment cells.  
 ✅ **Contour Detection** – Identifies and marks cell-like structures.  
 
-![Cell Detection Output](![Cell Detection Output](screenshots/output.png)))
+![Cell Detection Output](https://github.com/tanmaypawar-in/blood_cell_detection---Computer-Vision/blob/fa4fdccd399d6b383a35aab8aa1828f8cc6de585/Screenshot%202025-02-11%20151635.png)
