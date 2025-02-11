@@ -9,4 +9,5 @@ This project performs **automatic cell detection** in microscopy images using **
 ✅ **Edge Detection** – Uses **Canny Edge Detection** for boundary extraction.  
 ✅ **Thresholding** – Applies **Otsu’s Thresholding** to segment cells.  
 ✅ **Contour Detection** – Identifies and marks cell-like structures.  
-✅ **Circularity Check** – Filters out non-cell objects based on shape analysis.  
+
+![Cell Detection Output](![Cell Detection Output](screenshots/output.png)))
