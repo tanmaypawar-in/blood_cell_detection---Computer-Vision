@@ -1,4 +1,4 @@
-Cell Detection Using OpenCV
+Cell Detection Using OpenCV (AI BASED PROJECT)
 
 This project performs **automatic cell detection** in microscopy images using **OpenCV techniques** like **thresholding, edge detection, and contour analysis**. It highlights the detected cells and outlines their structure.
 
